@@ -68,13 +68,16 @@ section h2, .articles article {
     font-family: Arial, Helvetica, sans-serif;
 }
 #sports {
-background-color: darkcyan;
+background-color: rgb(31, 228, 228);
 }
 #sports .articles article a {
  background-color: chartreuse;
 }
 #Saude {
     background-color: cadetblue;
+}
+#entretenimento {
+    background-color: darkgray;
 }
 
 section .container h2:first-child {
